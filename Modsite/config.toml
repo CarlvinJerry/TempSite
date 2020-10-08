@@ -61,7 +61,7 @@ disableLanguages        = []
       alt                 = "Hugo Future Imperfect Slim"
 
   [params.sidebar]
-    about               = "About the author."
+    about               = "About the the blog."
     postAmount          = 5
     projectAmount       = 5
     categories          = true
@@ -97,28 +97,28 @@ disableLanguages        = []
     identifier        = "about"
     url               = "/about/"
     pre               = "<i class='far fa-id-card'></i>"
-    weight            = 2
+    weight            = 6
 
   [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
     url               = "/blog/"
     pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 3
+    weight            = 2
 
   [[menu.main]]
     name              = "Projects"
     identifier        = "project"
     url               = "/project/"
     pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 4
+    weight            = 3
 
   [[menu.main]]
     name              = "Categories"
     identifier        = "categories"
     url               = "/categories/"
     pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 5
+    weight            = 4
 
   [[menu.main]]
     name              = "Contact"
@@ -327,7 +327,7 @@ disableLanguages        = []
 
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "/CarlvinJerry"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -335,22 +335,22 @@ disableLanguages        = []
   codepen               = ""
   # Visual Art Communities
   deviantart            = ""
-  flickr                = "example"
+  flickr                = ""
   behance               = ""
   dribbble              = ""
   # Publishing Communities
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = "example"
-  linkedin_company      = "examplebusiness"
+  linkedin              = "carlvinmwange"
+  linkedin_company      = ""
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
   # Social Networks
-  facebook              = "example"
+  facebook              = ""
   googleplus            = ""
-  reddit                = "example"
+  reddit                = ""
   quora                 = ""
   youtube               = ""
   vimeo                 = ""
@@ -358,19 +358,19 @@ disableLanguages        = []
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
-  instagram             = "example"
+  instagram             = ""
   tumblr                = ""
-  twitter               = "example"
+  twitter               = "PipeFunction"
   strava                = ""
   skype                 = ""
   snapchat              = ""
-  pinterest             = "example"
-  telegram              = "example"
+  pinterest             = ""
+  telegram              = ""
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
-  mastodon              = "example.com/@example"
+  researchgate          = ""
+  keybase               = ""
+  mastodon              = ""
   # Email
-  email                 = "example"
+  email                 = "carlvinjerry@gmail.com"

@@ -13,7 +13,10 @@
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/fr/blog/emoji-support/</guid>
-      <description>Introduction: Here&amp;rsquo;s a fun fact; An average human being (probably an adult) makes close to 30,000 conscious decisions every day. This isn&amp;rsquo;t entirely true though, in fact, I just made that number up. I could be right because if you think about it, how many decisions would you say you make on a day to day basis? Depending on who you are the above obviously varies widely and you know best.</description>
+      <description>Emoji peut être activé dans un projet Hugo de plusieurs manières.
+ La fonction [emojify] (https://gohugo.io/functions/emojify/) peut être appelée directement dans les modèles ou [Inline Shortcodes] (https://gohugo.io/templates/shortcode-templates/#inline- codes courts).
+Pour activer globalement emoji, définissez enableEmoji sur true dans la [configuration] de votre site (https://gohugo.io/getting-started/configuration/), puis vous pourrez taper des codes abrégés emoji directement dans les fichiers de contenu; par exemple.
+ 🙈 : see_no_evil: 🙉 : hear_no_evil: : speak_no_evil: Le [aide-mémoire Emoji] (http://www.</description>
     </item>
     
   </channel>

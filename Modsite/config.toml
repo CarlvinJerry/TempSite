@@ -2,7 +2,7 @@
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://example.com/"
 DefaultContentLanguage  = "en"
-title                   = "Carlvin.M.J"
+title                   = "Carlvin || Beyon Raw Data"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
@@ -33,7 +33,7 @@ disableLanguages        = []
   [params.meta]
     description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
     author              = "HTML5UP and Hugo"
-    favicon             = true
+    favicon             = false
     svg                 = true
     faviconVersion      = "1"
     msColor             = "#ffffff"
@@ -51,19 +51,18 @@ disableLanguages        = []
     paragraph             = "Data Stories, Analytics & Visualization."
     rssIntro              = true
     socialIntro           = true
-    hideWhenSingleColumn  = true
-    alwaysOnHomepage      = true
+    hideWhenSingleColumn  = false
+    alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo_transparent.png"
+      src                 = "img/main/logo.jpg"
       shape               = "circle"
       width               = ""
       alt                 = "Hugo Future Imperfect Slim"
 
   [params.sidebar]
-    about               = "About the the blog."
+    about               = "About the Author."
     postAmount          = 5
-    projectAmount       = 5
     categories          = true
     categoriesByCount   = true
 
@@ -97,7 +96,7 @@ disableLanguages        = []
     identifier        = "about"
     url               = "/about/"
     pre               = "<i class='far fa-id-card'></i>"
-    weight            = 6
+    weight            = 5
 
   [[menu.main]]
     name              = "Blog"
@@ -105,13 +104,6 @@ disableLanguages        = []
     url               = "/blog/"
     pre               = "<i class='far fa-newspaper'></i>"
     weight            = 2
-
-  [[menu.main]]
-    name              = "Projects"
-    identifier        = "project"
-    url               = "/project/"
-    pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 3
 
   [[menu.main]]
     name              = "Categories"
@@ -126,6 +118,13 @@ disableLanguages        = []
     url               = "/contact/"
     pre               = "<i class='far fa-envelope'></i>"
     weight            = 6
+
+  [[menu.main]]
+    name              = "Projects"
+    identifier        = "projects"
+    url               = "/projects/"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 3
 
 [Languages]
 

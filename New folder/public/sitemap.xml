@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-visualization/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/data-visualization/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/tidy-tuesday/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/twitter/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/twitter/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/shiny-apps/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-mining/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/data-mining/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/decision-trees/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/digital-nudging/2019-02-17-digital-nudging/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/machine-learning/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+</urlset>

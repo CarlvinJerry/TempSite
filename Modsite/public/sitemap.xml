@@ -1,58 +1,194 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>/en/sitemap.xml</loc>
-    
-      <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>/fr/sitemap.xml</loc>
-    
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>/pl/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>/tags/data-visualization/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>/pt/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>/categories/data-visualization/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>/de/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>/es/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>/zh-cn/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>/project/tidy-tuesday/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>/zh-tw/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>/tags/twitter/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>/ja/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>/categories/twitter/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>/nl/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>/project/shiny-apps/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/markdown-syntax.fr/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/rich-content.fr/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/emoji-support.fr/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-mining/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/data-mining/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/decision-trees/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/digital-nudging/2019-02-17-digital-nudging/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/machine-learning/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+</urlset>

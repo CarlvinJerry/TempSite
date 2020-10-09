@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics on Carlvin || Beyon Raw Data</title>
+    <link>/categories/data-analytics/</link>
+    <description>Recent content in Data Analytics on Carlvin || Beyon Raw Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Handy Shiny Apps</title>
+      <link>/project/shiny-apps/shiny_apps/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/shiny-apps/shiny_apps/</guid>
+      <description>Motivation This project contains links to my developed shiny apps you might find helpful&amp;hellip;For every new interesting idea I have I&amp;rsquo;ll build an app. Some might be basic shiny, others might be complex shiny, depending on how important I think they are. Let me know what you think,suggestions for improvements and new apps are welcome.
+1. Live time progress A live time visualizing app with a stop watch for board games hosted on ShinyApp.</description>
+    </item>
+    
+  </channel>
+</rss>

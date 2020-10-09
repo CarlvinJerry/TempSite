@@ -1,14 +1,18 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://example.com/"
+baseurl                 = "https://beyondrawdata.rbind.io/"
 DefaultContentLanguage  = "en"
 title                   = "Carlvin || Beyon Raw Data"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
-googleAnalytics         = ""
+googleAnalytics         = "UA-137362362-1"
 pluralizeListTitles     = false
 disableLanguages        = []
+enableGitInfo = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+#publish directory
+#publishDir = "../CarlvinJerry.github.io"
 
 [markup.goldmark.renderer]
   unsafe                = true

@@ -1,21 +1,15 @@
----
-title: "Tidy Tuesday"
-subtitle: "A collection of my data visualization contributions to the TidyTuesday weekly social project"
-author: "admin"
-date: '2019-09-09'
-summary: "A collection of my data visualization contributions to the TidyTuesday weekly social project"
-image:
-  caption: '#tidyTuesday official banner'
-  focal_point: ''
-  preview_only: false
-output:
-  blogdown::html_page:
-    css: custom.css
-editor_options: 
-  chunk_output_type: console
-tags: [Twitter,Data Visualization]
-categories: [Twitter,Data Visualization]
----
++++
+title = "Tidy Tuesday"
+description = "A collection of my data visualization contributions to the TidyTuesday weekly social project"
+author = "Carlvin.M."
+date = '2019-09-09'
+tags = ["Twitter","Data Visualization", "R", "TidyVerse"]
+categories = ["Data Visualization"]
+[[images]]
+  src = "img/2019/03/featured2.PNG"
+  alt = "tidyTuesday official banner"
+  stretch = "stretchH"
++++
 
 <div class="flex-container">
 

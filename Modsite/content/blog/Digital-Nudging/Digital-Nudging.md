@@ -2,13 +2,13 @@
 title = "Digital Nudging"
 description = "Influencing online User decisions on Twitter through nudge units-A hackathon experience."
 author = "Carlvin.M."
-date = '2019-02-17'
-tags = ["Twitter","Data Mining","R","Python","Decision trees","regression"]
+date = "2019-02-17"
+tags = ["Twitter","Data Mining","R","Decision trees","regression"]
 categories = ["Data Mining","Machine Learning"]
 [[images]]
-  src = "/featured22.jpg"
-  alt = "Valley"
-  stretch = "horizontal"
+  src = "img/2019/03/featured.jpeg"
+  alt = "Desert Scene"
+  stretch = "stretchH"
 +++
 
 #### Introduction:    
@@ -430,4 +430,3 @@ With our decision tree model, we were able to attain a high level of accuracy fo
 
  
 <br>
-
